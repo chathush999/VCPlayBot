@@ -97,7 +97,7 @@ If you donlt like to play in linked channel:
 ##deploy to heroku
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/thehamkercat/WilliamButcherBot">
+        <a href="https://heroku.com/deploy?template=https://https://github.com/chathush999/VCPlayBot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
