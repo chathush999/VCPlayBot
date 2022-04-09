@@ -1,4 +1,5 @@
-# How To Host
+##deploy to heroku##
+
 <h1>
     <p align="center">
         <a href="https://heroku.com/deploy?template=https://https://github.com/chathush999/VCPlayBot">
@@ -6,8 +7,6 @@
         </a>
     </p>
 </h1>
-
-<h3 align="center"> 
 
 - Support Channel :- [Awesome Bot](http://t.me/LaylaList)
 
