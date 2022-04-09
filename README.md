@@ -1,10 +1,6 @@
-##deploy to heroku##
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/chathush999/VCPlayBot)
 
-<h1>
-    <p align="center">
-        <a href="https://heroku.com/deploy?template=https://https://github.com/chathush999/VCPlayBot">
-            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-      
 - Support Channel :- [Awesome Bot](http://t.me/LaylaList)
 
 - Support Group :- [Awesome Support](http://t.me/AwesomeSupport)
@@ -29,9 +25,6 @@ Made with Python3
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
 Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
-
-
-
 
 
 ## Commands 🛠
