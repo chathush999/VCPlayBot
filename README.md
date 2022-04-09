@@ -95,9 +95,14 @@ If you donlt like to play in linked channel:
 - [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
 
 ##deploy to heroku
-<p align="center">
-        <a href="https://heroku.com/deploy?template=https://https://github.com/chathush999/VCPlayBot">
+<h1>
+    <p align="center">
+        <a href="https://heroku.com/deploy?template=https://github.com/thehamkercat/WilliamButcherBot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
 </h1>
+
+<h3 align="center"> 
+   Generating Pyrogram Session For Heroku
+</h3>
