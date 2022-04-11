@@ -1,3 +1,7 @@
+###deploy to heroku###
+[![Deploy](https://telegra.ph/file/aaa10262ebe6670eecf58.jpg)](https://heroku.com/deploy?template=https://github.com/chathush999/VCPlayBot.git)
+
+
 
 import os
 import io
